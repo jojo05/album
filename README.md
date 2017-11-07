@@ -2,6 +2,8 @@
 
 A simple photo album component, built using `preact-cli`.
 
+(Demo)[https://jojo05.github.com/album/]
+
 
 ## Goals 
 
@@ -14,8 +16,11 @@ This component goals are:
 
 ## Getting Started
 
+Copy source files to an empty `preact-cli` project 
+
+Add dependency:
+
 ```
-Copy source files to your preact-cli project 
 npm i -S preact-portal
 ```
 
