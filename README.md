@@ -2,7 +2,7 @@
 
 A simple photo album component, built using `preact-cli`.
 
-(Demo)[https://jojo05.github.com/album/]
+[Demo](https://jojo05.github.com/album/)
 
 
 ## Goals 
